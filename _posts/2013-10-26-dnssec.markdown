@@ -17,6 +17,6 @@ Một vài điều cần nhớ về DNSSEC:
 
 5. Domain [này](http://vdchuyen.com) cũng được deploy với DNSSEC tuy nhiên do registra của domain này là namecheap chưa triển khai nên cũng chưa validate được từ root. ISC có một giải pháp [khác](https://dlv.isc.org/) để Validate các domain mà registra chưa hỗ trợ. 
 
-6. Deploy DNSSEC thì không thể không biết dnsviz. Ví dụ: http://dnsviz.net/d/vdchuyen.com/dnssec.
+6. Deploy DNSSEC thì không thể không biết dnsviz. Ví dụ: [http://dnsviz.net/d/vdchuyen.com/dnssec](http://dnsviz.net/d/vdchuyen.com/dnssec)
 
 
