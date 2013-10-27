@@ -2,7 +2,7 @@
 layout: post
 title:  "WPA2 Enterprise on Arch"
 date:   2013-01-22 20:59:42
-categories: jekyll
+categories: blog
 ---
 
 My company have two wlan networks, one is for Public access and another is for private Corporate using WPA2 Enterprise, it is automatically connects on Windows but not in Linux.

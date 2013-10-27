@@ -2,7 +2,7 @@
 layout: post
 title:  "Rescue the plug computer"
 date:   2012-12-19 02:26:42
-categories: jekyll
+categories: blog
 ---
 
 I had one [plugcomputer](http://www.ionics-ems.com/plugcomputer.html) and oneday I messed up the rootfs then it became a brick.
@@ -23,6 +23,6 @@ Plug one usb to your computer to by pass the EISA have-to-copy install image to 
 
 Check carefully the USB VendorID and ProductID by using USBDeview the device should be USB Serial Converter A and B, the sheeva-installer does not recognized your ftdi if you don’t set the right value.
 
-Finally, you can check it at this url. If you can see the picture that means it’s running well.
+Finally, you can check it at this [url](http://vdchuyen.no-ip.org/). If you can see the picture that means it’s running well.
 
 *All these steps run on Windows XP 32bit VMWare guest and a Windows 7 64bit computer host*
