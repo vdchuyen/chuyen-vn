@@ -5,7 +5,7 @@ layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
-timezone:    nil
+timezone:    Asia/Ho_Chi_Minh
 encoding:    utf-8
 
 future:      true
