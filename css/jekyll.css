@@ -169,6 +169,7 @@ body > footer a:hover img {
   opacity: 1;
 }
 
+
 @media (max-width: 568px){
   footer .one-third p {
     margin-bottom: 0;
@@ -195,6 +196,8 @@ body > footer a:hover img {
     font-size: 3.2em;
   }
 }
+
+img[alt=md-image] { width: 100px; height: 100px;}
 
 /* Quickstart */
 
