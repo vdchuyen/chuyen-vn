@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "Code hightlight"
+date:   2013-10-24 15:31:42
+categories: blog
+---
+
+This script will scan the register and expire date or a list domains:
+
+
+
+{% highlight python %}
 #-------------------------------------------------------------------------------
 # Name:        domain_expire_scanner
 # Purpose:     Scan register,expire date of domains in a csv and return a csv
@@ -85,3 +97,6 @@ def whois(domain):
 
 if __name__ == "__main__":
         main(sys.argv[1:])
+        
+        
+{% endhighlight %}
