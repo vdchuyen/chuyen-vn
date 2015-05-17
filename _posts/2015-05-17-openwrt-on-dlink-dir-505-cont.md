@@ -14,7 +14,7 @@ Fiber link to the home --> Dlink Dir 505 via ether + openwrt ---> Wireless SSID 
  
 The more you work with __OpenWRT__, the more you find it fancy. It works more than just a router/acccess point but you can do anything with it. 
 
-I even setup ad-blocking on this little brick to protect our home clients. I just tried two solutions and it works smooth as it would be:
+I even setup ad-blocking on this little brick to protect our home clients. I just tried two solutions and it worked smooth as it would be:
 
 1. Privoxy with transparent proxy and more block rule in user.action file.
 2. Dnsmasq as [superwrt.ro](https://superwrt.ro/ad-block/) suggestion. 					
