@@ -23,4 +23,4 @@ Trying Chrome Remote Desktop with my Linux Arch box is another option. And this 
 
 Once it can connect you can use your mobile to remote control the host.
 
-![Screenshot](https://lh4.googleusercontent.com/zSqKR3oAObwAoRdIYz7JZLlfTmWvW0aTwPmIOcz5PPPME_pSJdLIBq0OPVfDc-YGQx-_r_fqW0qBN3o=w1256-h587-rw  "Connect")
+![Screenshot](https://lh4.googleusercontent.com/yMp4NzZM7tmsM09FVeDUh7LUgJ622Tx592_ewbZQHrIwhtgl8aQovNyPXzBOZwpElvS-HJkEC0EoIRc=w1256-h587-rw  "Connect")
