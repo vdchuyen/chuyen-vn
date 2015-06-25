@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Install Openwrt on Dlink DIR-505 con't"
+date:   2015-05-17 15:15:15
+categories: blog
+---
 
 Had known Parallels Access and use it with my Corporate desktop, it must say it's a good idea and solutions to by pass Corporate firewalls. Since PA use DNS traffic to control the host machine behind CF, I can use mobile or tablet to access the my computer inside my company network.
 
