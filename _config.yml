@@ -4,7 +4,7 @@ plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
-keep_files:  ['.git','.svn']
+keep_files:  ['.git','.svn','_site']
 timezone:    Asia/Ho_Chi_Minh
 encoding:    utf-8
 

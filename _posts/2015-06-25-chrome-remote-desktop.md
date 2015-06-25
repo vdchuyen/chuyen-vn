@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Install Openwrt on Dlink DIR-505 con't"
-date:   2015-05-17 15:15:15
+title:  "Chrome Remote Desktop"
+date:   2015-06-25 21:57:48
 categories: blog
 ---
 
@@ -23,4 +23,4 @@ Trying Chrome Remote Desktop with my Linux Arch box is another option. And this 
 
 Once it can connect you can use your mobile to remote control the host.
 
-![Screenshot](https://drive.google.com/file/d/0B54aL4Gooo85WkhuNWdWYjFoTjA/view?usp=sharing  "Connect")
+![Screenshot](https://lh4.googleusercontent.com/zSqKR3oAObwAoRdIYz7JZLlfTmWvW0aTwPmIOcz5PPPME_pSJdLIBq0OPVfDc-YGQx-_r_fqW0qBN3o=w1256-h587-rw  "Connect")
