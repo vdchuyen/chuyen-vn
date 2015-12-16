@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+plugins_dir:     ./_plugins
+layouts_dir:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn','_site']
@@ -13,11 +13,12 @@ show_drafts: nil
 limit_posts: 0
 highlighter: true
 
-relative_permalinks: true
+relative_permalinks: false
 
-permalink:     date
-paginate: 5
-paginate_path: 'page:num'
+jekyll_paginate:
+ permalink:     date
+ paginate: 5
+ paginate_path: 'page:num'
 
 markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
@@ -44,7 +45,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
+  enable_coderay: true
 
   coderay:
     coderay_wrap: div
