@@ -10,13 +10,12 @@ Redhat has done so many backports features from 3.x kernel to their 2.6.x, this 
 To build profile for Centos you need two steps:
 
 * Build dwarfdump, these steps belows works for me:
-
-
+```
 	yum install elfutils-devel
 	wget 'http://www.prevanders.net/libdwarf-20140413.tar.gz'	
 	make
 	cp dwarfdump /usr/local/sbin
-
+```	
 * Create vtypes (kernel's data structures) so that volatility can analyze:
 
 	svn checkout https://github.com/volatilityfoundation/volatility/trunk/tools/linux
@@ -59,7 +58,7 @@ Apply this patch:
 	
 	#ifdef CONFIG_SLAB
  
-	make
+ and then just make
 
 * Finally, zip both files to Profile
 
