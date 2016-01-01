@@ -63,3 +63,7 @@ Apply this patch:
 * Finally, zip both files to Profile
 
 	zip /tmp/Cen-2.6.18-398.el5-x86_64.zip module.dwarf /boot/System.map-2.6.18-398.el5 
+    
+* Also this profile was added to my Volatility collection:
+
+[You can find these profiles here](https://drive.google.com/folderview?id=0B54aL4Gooo85c0hXZ19EdkpnSTQ&usp=sharing)
