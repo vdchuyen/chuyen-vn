@@ -7,6 +7,7 @@ exclude:     []
 keep_files:  ['.git','.svn','_site']
 timezone:    Asia/Ho_Chi_Minh
 encoding:    utf-8
+page_titlle: bird's nest
 
 future:      true
 show_drafts: nil
