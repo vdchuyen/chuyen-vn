@@ -10,4 +10,4 @@ Sự thay đổi lớn nhất có lẽ là về nhận thức, ít nhất đó l
 
 Gần đây mình có tranh luận về việc xây viện dưỡng lão, có người bảo nên xây cho đẹp, vì ai mà chả cần đẹp ? 
 Tuy nhiên nó không phải là cốt lõi vì càng già, cái đẹp, hào nhoáng sẽ không còn là thứ yếu, khi chúng ta trải qua quá nhiều thứ thì quay về về với cái đơn giản nhất, đó không phải là sự luân hồi mà Đức Phật hay nói đến hay sao. 
-Khi Đức Phật ngày đã nếm trải qua mọi thứ tốt xấu trên đời thì chung quy lại cái ngày muốn nói đến là sự giản đơn.
+Khi Đức Phật ngài đã nếm trải qua mọi thứ tốt xấu, vui buồn, sướng khổ trên đời này rồi thì chung quy lại cái ngài muốn nhắn nhủ chúng sinh rằng nên coi mọi thứ trên đời với tâm thế thiện lành vì chẳng phải rốt cuộc cuối cùng vòng luân hồi cũng sẽ cuốn mọi thứ về cát bụi mà thôi.
