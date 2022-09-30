@@ -11,7 +11,7 @@ Cũng giống như anh CEO ở trên, trong quá trình gầy dựng công ty, �
 
 Để làm gì ? 
 
-Dĩ nhiên là để mọi người tin tưởng, đi theo ảnh để xây dựng và [bán sản phẩm](https://xn--chuyn-ksa.vn/2022/07/29/build-sell-products.html), đội nhóm, con người và công ty.
+Dĩ nhiên là để mọi người tin tưởng, đi theo ảnh để xây dựng và [bán sản phẩm](https://xn--chuyn-ksa.vn/2022/07/29/build-sell-products.html), đội nhóm, con người và công ty. Trong trường hợp này đó là tài sản/thứ giá trị phù hợp với thời điểm đó.
 
 Đó dĩ nhiên là một áp lực rất lớn, có thể bản thân ảnh không muốn và không nhận thức được việc mình phải gồng mình lên để chịu những áp lực vô hình đó. Tuy nhiên cái hay là ảnh tự nhìn lại bản thân và thả lỏng, sống đúng với cái ảnh đang có thì tất nhiên ảnh chả phải gồng mình làm gì nữa và áp lực đó tự dưng tan biến đi.  
 
