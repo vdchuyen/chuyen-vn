@@ -1,4 +1,4 @@
-Gồng mình lên để làm gì ? Impostor syndrome (hiệu ứng mặt nạ là gì). 
+Gồng mình lên để làm gì ? Impostor syndrome (hiệu ứng mặt nạ hoặc hiệu ứng kẻ giả mạo là gì ?). 
 
 
 ![Imposter syndrome](https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/imposter.png)
