@@ -1,4 +1,7 @@
-Gồng mình lên để làm gì ? Impostor syndrome (hiệu ứng mặt nạ là gì)
+Gồng mình lên để làm gì ? Impostor syndrome (hiệu ứng mặt nạ là gì). 
+
+
+![Imposter syndrome](https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/imposter.png)
 
 Bài này thực ra là gom lại nhiều cảm hứng từ nhiều nguồn khác nhau, tuy nhiên có lẽ xuất phát từ lúc đọc bài này trên [Forbes](https://www.forbes.com/sites/robertglazer/2018/06/29/the-imposter-syndrome-paradox-why-feeling-like-a-fraud-may-be-your-strongest-asset/), sau này được [Atlassian blog](https://www.atlassian.com/blog/inside-atlassian/impostor-syndrome-as-an-asset) đăng lại mấy năm trước, tuy nhiên gần đây cụm từ "trọc phú kiến thức" lại được nhắc đến nhiều nên mình có một số suy nghĩ lan man liên kết mọi thứ lại một chút như sau:
 
