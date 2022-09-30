@@ -16,4 +16,4 @@ Anh phát biểu cụm từ "trọc phú kiến thức" dĩ nhiên có thể nh�
 
 Vậy nên gồng hay không gồng, nên đeo hay cởi ? 
 
-Thực ra là tùy thời điểm, nên và không nên. Timing là nghệ thuật của mỗi người, không ai có thể đứng trong hoàn cảnh mỗi người để có thể suy xét đúng sai. Mọi thứ lợi hay hại đều rất tương đối và hay hoặc dở tùy thuộc vào khả năng, nhận thức mỗi người.
+Thực ra là tùy thời điểm, nên và không nên. Timing(chọn thời điểm) là nghệ thuật của mỗi người, không ai có thể đứng trong hoàn cảnh của người khác để có thể suy xét đúng sai. Mọi thứ lợi hay hại đều rất tương đối và hay hoặc dở tùy thuộc vào khả năng, nhận thức mỗi người.
