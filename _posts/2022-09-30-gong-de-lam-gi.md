@@ -1,6 +1,6 @@
 Gồng mình lên để làm gì ? Impostor syndrome (hiệu ứng mặt nạ là gì)
 
-Bài này thực ra là gom lại nhiều cảm hứng từ nhiều nguồn khác nhau, tuy nhiên có lẽ xuất phát từ lúc đọc bài này https://www.atlassian.com/blog/inside-atlassian/impostor-syndrome-as-an-asset mấy năm trước, tuy nhiên gần đây cụm từ "trọc phú kiến thức" lại được nhắc đến nhiều nên mình có một số suy nghĩ lan man liên kết mọi thứ lại một chút như sau:
+Bài này thực ra là gom lại nhiều cảm hứng từ nhiều nguồn khác nhau, tuy nhiên có lẽ xuất phát từ lúc đọc bài này trên [Forbes](https://www.forbes.com/sites/robertglazer/2018/06/29/the-imposter-syndrome-paradox-why-feeling-like-a-fraud-may-be-your-strongest-asset/), sau này được [Atlassian blog](https://www.atlassian.com/blog/inside-atlassian/impostor-syndrome-as-an-asset) đăng lại mấy năm trước, tuy nhiên gần đây cụm từ "trọc phú kiến thức" lại được nhắc đến nhiều nên mình có một số suy nghĩ lan man liên kết mọi thứ lại một chút như sau:
 
 Thường đa số mọi người đều có một đặc điểm chung là hay tô vẽ bản thân mình lên, đeo một cái mặt nạ đẹp đẽ hơn cho mình, điều này thực ra cũng chẳng gây hại gì mà cũng chẳng có lợi. Nhu cầu được ngưỡng mộ từ người khác là một nhu cầu chính đáng. Để mọi người ngưỡng mộ cá nhân, thì cá thể đó phải tìm mọi cách để nâng tầm bản thân mình hơn mọi người, có thể bằng tài năng thiên bẩm, bằng nỗ lực phi thường qua thời gian hoặc đơn giản chỉ cần tự "gồng" mình lên hoặc kiếm một cái mặt nạ đẹp đẽ tròng vô là đủ. 
 
