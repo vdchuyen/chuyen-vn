@@ -1,5 +1,7 @@
 Khi bạn *già* hơn thì sao ? 
 
+![simple](https://github.com/vdchuyen/chuyen-vn/raw/master/img/simple.jpg)
+
 Có lẽ nhiều người cũng đã nghe tới cụm từ midlife-crisis, vậy khi đến đỉnh và qua sườn dốc thì những gì sẽ thay đổi ?
 Như lời một đoạn trong bài hát "Ngày hôm nay anh rất mệt" của Nguyễn Văn Chung: 
 
