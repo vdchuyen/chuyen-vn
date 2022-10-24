@@ -1,0 +1,6 @@
+Để nói về sự tự do của nước Mỹ như là một món ăn thì có lẽ theo mình bộ phim Raymond & Ray lột tả gần như đủ gia vị, cảm xúc nhất. Từ hình ảnh hai "anh em", nghĩa trang, hình ảnh người bố "bá đạo", công ty mai táng, vị cha xứ, luật sư và không thể thiếu hình ảnh các vai nữ như cô y tá Kiera, người yêu của ông bố Lucia ... đều phản ánh xã hội Mỹ một cách đậm nét nhất. Cốt truyện xoay quanh road-trip của hai anh em không liên quan về huyết thống, đoạn cuối thư ông bố gửi từng người là twist giải thích cho các câu chuyện đầu phim. Để sống như ông bố như câu chuyện trong phim chắc chỉ có ở nước Mỹ :P, đôi khi tốt hay xấu do mình phân tính (wowwy).
+
+Đây là một bộ phim khá khó xem, kén khán giả, thuộc thể loại drama, điểm nhấn nằm ở tình huống, lời thoại và diễn xuất pha trò của các diễn viên. Dĩ nhiên có thể không dành cho số đông vì nhịp film chậm, không liền mạch, một số tình huống khá khó hiểu nếu không tập trung, nhiều khi trong khi xem mình phải tua đi tua lại vài lần.
+
+Tuy nhiên để tổng kết lại thì đây lại là một bộ phim đáng xem nữa của năm nay, có vẻ thị hiếu khán giả của 2 nền tàng netflix và appletv+ khá khác nhau, appletv+ vẫn ưu tiên thị trường Bắc Mỹ hơn Châu Á nên nhiều film của appletv+ gần đây đều tập trung dành cho thị trường này. 
+
