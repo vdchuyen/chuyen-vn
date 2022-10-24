@@ -1,4 +1,4 @@
-![Image from appletv+](https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/raymondray.jpg)
+<img src="https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/raymondray.jpg" alt="image from appletv+" width="500"/> 
 
 Để nói về sự tự do của nước Mỹ như là một món ăn thì có lẽ theo mình bộ phim Raymond & Ray lột tả gần như đủ gia vị, cảm xúc nhất, từ hình ảnh hai "anh em", nghĩa trang, hình ảnh người bố "bá đạo", công ty mai táng, vị cha xứ, luật sư và không thể thiếu hình ảnh các vai nữ như cô y tá Kiera, người yêu của ông bố Lucia ... đều phản ánh xã hội Mỹ một cách đậm nét nhất.
 
