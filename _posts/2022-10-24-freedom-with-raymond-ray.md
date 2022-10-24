@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/raymondray.jpg" alt="image from appletv+" width="500"/> 
 
-Để nói về sự tự do của nước Mỹ như là một món ăn thì có lẽ theo mình bộ phim Raymond & Ray lột tả gần như đủ gia vị, cảm xúc nhất, từ hình ảnh hai "anh em", nghĩa trang, hình ảnh người bố "bá đạo", công ty mai táng, vị cha xứ, luật sư và không thể thiếu hình ảnh các vai nữ như cô y tá Kiera, người yêu của ông bố Lucia ... đều phản ánh xã hội Mỹ một cách đậm nét nhất.
+Để nói về sự tự do của nước Mỹ như là một món ăn thì có lẽ theo mình bộ phim Raymond & Ray lột tả gần như đầy đủ gia vị, ngôn từ qua lời thoại, hình ảnh hai "anh em", nghĩa trang, người bố "bá đạo", công ty mai táng, vị cha xứ, luật sư, ma túy, rượu, nhạc jazz... và không thể thiếu hình ảnh các vai nữ như cô y tá Kiera, người yêu của ông bố Lucia ... cho đến việc cầm súng bắn vào quan tài, tất cả đều lột tả được một nước Mỹ với nhiều khía cạnh nổi bật và đề cao sự đa dạng, khác biệt của mỗi cá nhân, con người sống trong xã hội đó. 
 
 Cốt truyện xoay quanh road-trip của hai anh em không liên quan về huyết thống miễn cưỡng đi đến dự đám tang người cha của mình và việc người cha "thao túng" cuộc sống của hai anh em cho đến khi chết là mắc xích cho toàn bộ phim. Đoạn cuối thư ông bố gửi từng người là twist giải thích cho các câu chuyện đầu phim. Để sống như ông bố YOLO như câu chuyện trong phim chắc chỉ có ở nước Mỹ :P, đôi khi tốt hay xấu do mình phân tính (wowwy) và nhiều khi mình cũng ước được như ông bố bá cmn đạo đó, dĩ nhiên ở một số mặt thôi ;)
 
