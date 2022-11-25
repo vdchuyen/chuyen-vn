@@ -4,7 +4,7 @@ Sản phẩm ở đây nói chung cho dễ hình dung là những gì có thể 
 
 Về việc bán hàng thì qua quá trình tiếp xúc với nhiều người, nhiều vị trí, cả ở vị trí mua hàng thì bán hàng thực tế là quá trình đi bán trải nghiệm của mình cho khác hàng, cho những người có nhu cầu cần trải nghiệm đó. 
 
-Mình luôn đề cao sự trải nghiệm vì nếu bạn chưa trải nghiệm qua thì chưa hình dung được sự vật, hiện tượng nó xảy ra như thế nào, cơ thể, giác quan, các horman bên trong bạn sẽ phải ứng ra sao đối với tình huống đó. Quá trình này mọi người đều phải đi qua cả, trong kinh Pháp Hoa cũng có nói và mở rộng ra quan điểm là ai ai cũng có Phật tánh, ai ai cũng có thể trở thành Phật nếu trải qua quá trình rèn luyện, tu tập. 
+Mình luôn đề cao sự trải nghiệm vì nếu bạn chưa trải nghiệm qua thì chưa hình dung được sự vật, hiện tượng nó xảy ra như thế nào, cơ thể, giác quan, các hormones bên trong bạn sẽ phải ứng ra sao đối với tình huống đó. Quá trình này mọi người đều phải đi qua cả, trong kinh Pháp Hoa cũng có nói và mở rộng ra quan điểm là ai ai cũng có Phật tánh, ai ai cũng có thể trở thành Phật nếu trải qua quá trình rèn luyện, tu tập. 
 
 Trải nghiệm là những thứ con người tiếp nhận được và phản ứng lại môi trường, tốt có xấu có và đó là thứ quý giá nhất, đó có thể coi là cứu cánh của cuộc sống. 
 
