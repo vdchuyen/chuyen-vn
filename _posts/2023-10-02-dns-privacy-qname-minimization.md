@@ -6,7 +6,7 @@ Vào cỡ 2015, 2016 [Stephane Bortzmeyer](https://dblp.org/pid/186/8836.html) �
 
 Tuy nhiều phần mềm phân giải tên miền đã thêm tính năng này tuy nhiên vẫn còn nhiều bất cập, ví dụ nếu bạn quản lý server DNS có traffic khá lớn thì sẽ thấy một lượng lớn request NXDOMAIN bắt đầu từ underscore (_) gửi đến, do phần xử lý [lẫn lộn](https://ns1.com/blog/why-qname-minimization-can-lead-to-increased-nxdomain-responses) giữa record NS và A.
 
-Stephane Bortzmeyer có cập nhật tính năng này lên thành một phiên bản khác RFC9156 để nhằm thay thế cho RFC7816 và mở rộng QTYPE thay vì NS như trước thì có thể dùng bất kỳ loại record nào và một thuật toán mới và tăng tỉ lệ cache, số lượng query do dùng ít dữ liệu hơn tuy nhiên tỉ lệ fail vẫn có thể cao hơn.
+Stephane Bortzmeyer có cập nhật tính năng này lên thành một phiên bản khác RFC9156 để nhằm thay thế cho RFC7816 và mở rộng QTYPE thay vì NS như trước thì có thể dùng bất kỳ loại record nào và một thuật toán mới nhằm tăng tỉ lệ cache, số lượng query do dùng ít dữ liệu hơn, riêng tỉ lệ fail vẫn có thể cao hơn.
 
 Tóm lại ngoài các tính năng như DNSSEC, DOH, DOT để tăng cường bảo mật, bí mật của hệ thống DNS thì bên cạnh đó DNS còn nhiều vấn đề, ý tưởng để mở rộng, chủ yếu cũng vì một mục đích đảm bảo an toàn cho nền tảng Internet chung.
 
