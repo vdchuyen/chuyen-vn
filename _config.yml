@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
-plugins_dir:     ./_plugins
-layouts_dir:     ./_layouts
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn','_site']
@@ -29,7 +29,6 @@ textile_ext:   textile
 excerpt_separator: "\n\n"
 plugins:
   - jekyll-feed
-  - jekyll-spaceship
 
 rdiscount:
   extensions: []
