@@ -25,4 +25,6 @@ Thứ hai là năng lực của người làm sản phẩm, năng lực người
 >9. The ninth is it is environmentally friendly and does not waste any resources.
 >10. The tenth is it is not overly designed, meaning ‘less is more’.
 
+Xây dựng sản phẩm thành công đã khó, làm sao duy trì nó lại càng khó hơn nữa như [Allen Zhang](https://blog.wechat.com/2019/03/18/what-is-wechats-dream-wechat-founder-allen-zhang-explains/) đã từng chia sẻ
+
 Cuối cùng là thị trường, cho dù sản phẩm ngon đến mấy, thị trường đi xuống, nhu cầu không còn hoặc không đúng thời điểm thì sự thành công cũng sẽ không đến.
