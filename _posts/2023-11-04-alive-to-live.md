@@ -2,7 +2,7 @@
 youtubeId: qZSJvyBag8A
 ---
 
-Sometimes listen to one master piece like this reminds me I'm still alive.
+Sometimes listening to just one master piece like this reminds me I'm still alive.
 
 [Song from a Secret Garden](https://www.youtube.com/watch?v=qZSJvyBag8A)
 
