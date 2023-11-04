@@ -12,6 +12,17 @@ Vậy làm sao để xây dựng sản phẩm và bán thành công:
 
 Thứ trước nhất vẫn là nhu cầu lớn, sản phẩm có thể nhân rộng, phải chăng người Tàu buôn bán thành công vì họ nhìn thấy được sức mạnh của con số, họ chỉ cần bán giá 1 đồng cho vạn người, không cần bán giá 10 đồng cho 1000 người vì sác xuất vạn người khác giới thiệu và quay lại mua vẫn cao hơn.
 
-Thứ hai là năng lực của người làm sản phẩm, năng lực người vận hành, nhiều sản phẩm có dấu ấn rất lớn của cha đẻ, người vận hành. Apple sẽ chỉ có sản phẩm để mọi người trầm trồ dưới thời Steve Jobs, Jony Ive mang cá tính, sự tinh tế về thẩm mỹ của những người tạo ra nó, còn lại thì việc vận hành nằm dưới tay Tim Cook. Nếu Apple không còn những nhân tố này thì sản phẩm sẽ dần mất đi các đặc trưng đó.
+Thứ hai là năng lực của người làm sản phẩm, năng lực người vận hành, nhiều sản phẩm có dấu ấn rất lớn của cha đẻ, người vận hành. Apple sẽ chỉ có sản phẩm để mọi người trầm trồ dưới thời Steve Jobs, Jony Ive mang cá tính, sự tinh tế về thẩm mỹ của những người tạo ra nó, còn lại thì việc vận hành nằm dưới tay Tim Cook. Nếu Apple không còn những nhân tố này thì sản phẩm sẽ dần mất đi các đặc trưng đó. [Dieter Rams](https://idesign.vn/eco-art/i-gallery/tom-tat-ve-cuoc-doi-va-su-nghiep-cua-dieter-rams-303485.html) là một huyền thoại thiết kế công nghiệp với những sản phẩm mang tên Braun cũng đã từng đúc kết lại 10 nguyên tắc để xây dựng sản phẩm như sau
+
+>1. The first is a good product is innovative; it must have creativity.
+>2. The second is it is useful.
+>3. The third is it is beautiful.
+>4. The fourth is it is easy to use.
+>5. The fifth is it is unobtrusive, modest.
+>6. The sixth is it is honest.
+>7. The seventh is it is timeless; it won’t become outdated.
+>8. The eighth is it doesn’t skip over any small details.
+>9. The ninth is it is environmentally friendly and does not waste any resources.
+>10. The tenth is it is not overly designed, meaning ‘less is more’.
 
 Cuối cùng là thị trường, cho dù sản phẩm ngon đến mấy, thị trường đi xuống, nhu cầu không còn hoặc không đúng thời điểm thì sự thành công cũng sẽ không đến.
