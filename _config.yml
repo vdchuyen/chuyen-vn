@@ -7,7 +7,7 @@ exclude:     []
 keep_files:  ['.git','.svn','_site']
 timezone:    Asia/Ho_Chi_Minh
 encoding:    utf-8
-page_titlle: bird's nest
+page_titlle: Chuyên aka lukas
 
 future:      true
 show_drafts: nil
@@ -27,13 +27,8 @@ markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
 excerpt_separator: "\n\n"
-
-safe:        false
-host:        0.0.0.0
-port:        4000
-baseurl:     /
-url:         http://localhost:4000
-lsi:         false
+plugins:
+  - jekyll-feed
 
 rdiscount:
   extensions: []
