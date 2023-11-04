@@ -29,6 +29,7 @@ textile_ext:   textile
 excerpt_separator: "\n\n"
 plugins:
   - jekyll-feed
+  - jekyll-spaceship
 
 rdiscount:
   extensions: []
