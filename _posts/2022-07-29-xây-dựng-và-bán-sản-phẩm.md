@@ -1,3 +1,11 @@
+---
+layout: post
+title: Xây dựng và bán sản phẩm
+date: 2023-07-29 14:07:02 +0530
+comments: true
+categories: 
+---
+
 Bài này revive lại một suy nghĩ vu vơ từ lâu về cách xây dựng và bán sản phẩm. 
 
 Sản phẩm ở đây nói chung cho dễ hình dung là những gì có thể bán được, sức lao động hay chuyên môn, kinh nghiệm cũng có thể coi là một sản phẩm. Chúng ta học tập, trau dồi kiến thức, kinh nghiệm và chuyên môn là cả một quá trình xây dựng sản phẩm để mong đem đi bán được với giá cao (ở đây là lương, thu nhập)
