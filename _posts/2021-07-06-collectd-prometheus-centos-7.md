@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Khi bạn già đi
+title: Collectd & Prometheus on Centos 7.md
 date: 2021-07-06 09:07:02 +0530
 categories: build
 ---
