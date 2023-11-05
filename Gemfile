@@ -1,8 +1,11 @@
 source "https://rubygems.org"
-gem 'github-pages' 
-gem 'jekyll'
-gem 'redcarpet'
 
-group :jekyll_plugins do
-  gem 'jekyll-feed'
-end
+gem "jekyll", "~> 4.0"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+gem 'jekyll-feed'
+gem "json"
+gem "rouge"
+gem "sassc", "~> 2.3.0"
+gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'kramdown-syntax-coderay'
