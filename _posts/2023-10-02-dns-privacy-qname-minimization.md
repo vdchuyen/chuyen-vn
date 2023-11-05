@@ -2,7 +2,7 @@
 layout: post
 title: DNS Privacy with qname minimization
 date: 2023-10-02 12:07:02 +0530
-categories: #tech
+categories: tech
 ---
 
 Lâu quá không bàn gì về kỹ thuật, hôm nay chắc bàn về một thứ mà ít người *biết* kẻo lụt nghề :P
