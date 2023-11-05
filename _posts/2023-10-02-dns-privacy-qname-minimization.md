@@ -1,3 +1,11 @@
+---
+layout: post
+title: DNS Privacy with qname minimization
+date: 2023-10-02 12:07:02 +0530
+comments: true
+categories: 
+---
+
 Lâu quá không bàn gì về kỹ thuật, hôm nay chắc bàn về một thứ mà ít người *biết* kẻo lụt nghề :P
 
 Vào cỡ 2015, 2016 [Stephane Bortzmeyer](https://dblp.org/pid/186/8836.html) ở APNIC Pháp soạn thảo một vài bản ghi nhớ trong đó có RFC7816 nhằm mục đích tăng cường tính bí mật của hệ thống phân giải tên miền mạng toàn cầu. 
