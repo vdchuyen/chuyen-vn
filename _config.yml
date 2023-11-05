@@ -7,6 +7,5 @@ plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 paginate: 4
 rtl: false
 owner:
-  name:           vdchuyen
   twitter: vdchuyen
   linkedin: https://www.linkedin.com/in/chuyenvd
