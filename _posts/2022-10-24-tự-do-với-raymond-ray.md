@@ -2,7 +2,7 @@
 layout: post
 title: Tự do với Raymond Ray
 date: 2023-10-24 09:07:02 +0530
-categories: #life
+categories: life
 ---
 
 <img src="https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/raymondray.jpg" alt="image from appletv+" width="500"/> 
