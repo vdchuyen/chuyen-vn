@@ -2,7 +2,6 @@
 layout: post
 title: Oscar 2022
 date: 2022-04-01 09:07:02 +0530
-comments: true
 categories: 
 ---
 Mình ít khi đu trend, tuy nhiên Oscar năm nay có quá nhiều điều cần phải note lại.
