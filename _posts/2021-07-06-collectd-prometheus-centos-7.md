@@ -2,7 +2,7 @@
 layout: post
 title: Khi bạn già đi
 date: 2021-07-06 09:07:02 +0530
-categories: #build
+categories: build
 ---
 
 Centos 7 is too old so while you need collectd with plugin write metrics to Prometheus, no way you can do that on current packages. First, it’s a bug with collectd older than 5.12 and all you have to do is to build the package your self.
