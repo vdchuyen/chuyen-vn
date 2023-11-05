@@ -1,3 +1,11 @@
+---
+layout: post
+title: Tự do với Raymond Ray
+date: 2023-10-24 09:07:02 +0530
+comments: true
+categories: 
+---
+
 <img src="https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/raymondray.jpg" alt="image from appletv+" width="500"/> 
 
 <a href="https://www.imdb.com/title/tt15334032/" target="_blank">Raymond & Ray</a> là một bộ phim nghe qua chẳng có gì nổi bật, tuy nhiên để nói về sự tự do của nước Mỹ thì có lẽ theo mình nhìn lại đây là một bộ phim lột tả gần như đầy đủ tất cả các yếu tố của sự "tự do" từ hình ảnh người anh Ray đậm chất Mỹ, ngôn từ qua lời thoại chửi rủa ông bố, chi tiết "trao đổi qua lại" giữa ông bố và raymond, hình ảnh hai "anh em", nghĩa trang, người bố playboy "bá đạo", công ty mai táng, vị cha xứ, luật sư, ma túy, rượu, nhạc jazz, sex... và không thể thiếu hình ảnh các vai nữ như cô y tá Kiera, người yêu của ông bố Lucia ... cho đến việc cầm súng bắn vào quan tài, tất cả đều lột tả được một nước Mỹ với nhiều khía cạnh nổi bật và đề cao sự đa dạng, khác biệt của mỗi cá nhân, con người sống trong xã hội đó. 
