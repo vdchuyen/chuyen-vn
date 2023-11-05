@@ -1,6 +1,5 @@
 name: Chuyên
 url: "https://xn--chuyn-ksa.vn"
-title: "Random thoughts"
 markdown: kramdown
 highlighter: rouge
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
