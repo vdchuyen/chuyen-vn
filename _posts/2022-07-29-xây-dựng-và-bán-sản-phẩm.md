@@ -2,8 +2,7 @@
 layout: post
 title: Xây dựng và bán sản phẩm
 date: 2023-07-29 14:07:02 +0530
-comments: true
-categories: 
+categories: #think
 ---
 
 Bài này revive lại một suy nghĩ vu vơ từ lâu về cách xây dựng và bán sản phẩm. 
