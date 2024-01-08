@@ -5,6 +5,7 @@ highlighter: rouge
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 paginate: 4
 site.time: 2024
+site.description: "Rác tha lâu đầy tổ"
 rtl: false
 owner:
   twitter: vdchuyen
