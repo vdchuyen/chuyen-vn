@@ -13,7 +13,9 @@ Về việc bán hàng thì qua quá trình tiếp xúc với nhiều người, 
 
 Mình luôn đề cao sự trải nghiệm vì nếu bạn chưa trải nghiệm qua thì chưa hình dung được sự vật, hiện tượng nó xảy ra như thế nào, cơ thể, giác quan, các hormones bên trong bạn sẽ phải ứng ra sao đối với tình huống đó. Quá trình này mọi người đều phải đi qua cả, trong kinh Pháp Hoa cũng có nói và mở rộng ra quan điểm là ai ai cũng có Phật tánh, ai ai cũng có thể trở thành Phật nếu trải qua quá trình rèn luyện, tu tập. 
 
-Trải nghiệm là những thứ con người tiếp nhận được và phản ứng lại môi trường, tốt có xấu có và đó là thứ quý giá nhất, đó có thể coi là cứu cánh của cuộc sống. 
+[Trải nghiệm](https://web.archive.org/web/20220710021617/https://twitter.com/ecomchasedimond/status/1506067101231960067) là những thứ con người tiếp nhận được và phản ứng lại môi trường, tốt có xấu có và đó là thứ quý giá nhất, đó có thể coi là cứu cánh của cuộc sống. 
+
+<img src="https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/products-feeling.png" />
 
 Vậy làm sao để xây dựng sản phẩm và bán thành công: 
 
