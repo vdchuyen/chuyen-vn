@@ -15,7 +15,7 @@ Tuy nhiên liên tưởng đến ngày tình yêu thì cũng có thể dùng hi�
 >Nó chiếm hồn ta bằng nắng nhạt,  
 >Bằng mây nhè nhẹ, gió hiu hiu...
 
-Mà đã đụng đến đề tài này thì mấy ai cho mình khôn đâu:
+Mà đã đụng đến đề tài này thì có mấy ai bảo mình khôn đâu:
 
 <img src="https://raw.githubusercontent.com/vdchuyen/chuyen-vn/master/img/love-zg.jpg" width="300"/>
 
