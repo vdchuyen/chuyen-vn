@@ -11,7 +11,7 @@ Giải thích một cách khoa học thì não bộ có cơ chế chắc tương
 
 Tuy nhiên liên tưởng đến ngày tình yêu thì cũng có thể dùng hiệu ứng này để giải thích vì sao tình yêu khi dang dở 💔 lại được nhớ lâu hơn cho nên thi sĩ Hồ Dzếnh đã khẳng định trong bài "Ngập ngừng":
 
->Tình mất vui khi đã vẹn câu thề
+>Tình mất vui khi đã vẹn câu thề  
 >Đời chỉ đẹp những khi còn dang dở
 
 Còn tình yêu là gì thì ngay cả Xuân Diệu cũng ứ biết:   
