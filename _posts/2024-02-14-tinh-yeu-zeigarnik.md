@@ -9,7 +9,7 @@ Chắc nhiều người có nghe qua về [hiệu ứng Zeigarnik](https://vietc
 
 Giải thích một cách khoa học thì não bộ có cơ chế chắc tương tự như ngăn xếp, memory stacks trong máy tính vậy, về cơ bản mỗi sự kiện được coi là objects ghi nhớ trong não bộ thông qua 3 cấp trí nhớ: ngắn hạn, trung hạn và dài hạn, khi có một sự kiện dang dở thì não sẽ lưu tạm vào bộ nhớ ngắn hạn và có thể sẽ có trigger để update status liên tục trong hàng đợi này (queue 😁) gây ra cảm giác lo lắng, bất an khi mọi thứ chưa an bài, nhất là những người lớn tuổi(luôn muốn hoành thành những di nguyện trước khi lìa đời), khi nào hoàn thành thì có thể não sẽ flush đi hoặc chuyển sang cấp trung hoặc dài hạn hoặc flush tiếp ở các cấp nếu bộ nhớ đã đầy 😂
 
-Tuy nhiên liên tưởng đến ngày tình yêu thì cũng có thể dùng hiệu ứng này để giải thích vì sao tình yêu khi dang dở 💔 lại được nhớ lâu hơn cho nên thi sĩ Hồ Dzếnh đã khẳng định trong bài "Ngập ngừng":
+Tuy nhiên liên tưởng đến ngày tình yêu thì cũng có thể dùng hiệu ứng này để giải thích vì sao tình yêu khi dang dở 💔 lại được nhớ lâu hơn và Hồ Dzếnh cũng đã khẳng định trong bài "Ngập ngừng":
 
 >Tình mất vui khi đã vẹn câu thề  
 >Đời chỉ đẹp những khi còn dang dở
