@@ -9,6 +9,6 @@ Tiếp từ bài [Lời nói](https://xn--chuyn-ksa.vn/life/2024/01/04/l%E1%BB%9
 
 Theo Lão tử, đạo là vô tư và không phán xét, muốn có được hạnh phúc thật sự thì phải bỏ đi cái óc phân chia sự vật, vì tất cả sự vật đều tương đối, đều là vô thường, đều biến động không ngừng, không gì mà không thay đổi, hoặc mau hoặc chậm mà thôi. Do đó những gì chúng ta phán xét hôm nay chưa chắc ngày mai đã đúng và liệu chúng ta có đủ dữ kiện để phán xét theo góc nhìn của chúng ta hay không ? 
 
-Cổ ngữ có câu: "Đại trí nhược ngu, đại dũng nhược khiếp", bậc tài trí giả nhìn như ngu dốt, kẻ dũng mãnh nhìn như khiếp nhược. Quỷ Cốc Tử cũng nói: "Người thông minh xưa nay không hề khoa trương sở trường của mình, giả ngốc, giả đần, giả hồ đồ là cách tốt nhất để ẩn thân". Do đó nhìn bề ngoài khó mà phán xét người khác được và chúng ta cũng phải học cách làm sao lắng nghe và bớt nói, nhu nhường để luyện dũng.
+Cổ ngữ có câu: "Đại trí nhược ngu, đại dũng nhược khiếp", bậc tài trí giả nhìn như ngu dốt, kẻ dũng mãnh nhìn như khiếp nhược. Quỷ Cốc Tử cũng nói: "Người thông minh xưa nay không hề khoa trương sở trường của mình, giả ngốc, giả đần, giả hồ đồ là cách tốt nhất để ẩn thân". Do đó nhìn bề ngoài khó mà phán xét người khác được và chúng ta cũng phải học cách làm sao lắng nghe và bớt nói để luyện trí, nhu nhường để luyện dũng, khi đó mới có thể nhìn thấy sự an yên được. 
 
 
