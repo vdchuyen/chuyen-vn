@@ -9,7 +9,7 @@ Bài này revive lại một suy nghĩ vu vơ từ lâu về cách xây dựng v
 
 Sản phẩm ở đây nói chung cho dễ hình dung là những gì có thể bán được, sức lao động hay chuyên môn, kinh nghiệm cũng có thể coi là một sản phẩm. Chúng ta học tập, trau dồi kiến thức, kinh nghiệm và chuyên môn là cả một quá trình xây dựng sản phẩm để mong đem đi bán được với giá cao (ở đây là lương, thu nhập)
 
-Về việc bán hàng thì qua quá trình tiếp xúc với nhiều người, nhiều vị trí, cả ở vị trí mua hàng thì bán hàng thực tế là quá trình đi bán trải nghiệm của mình cho khách hàng, cho những người có nhu cầu cần trải nghiệm đó. 
+Về việc bán hàng thì qua quá trình tiếp xúc với nhiều người, nhiều vị trí, cả ở vị trí mua hàng thì bán hàng thực tế là quá trình đi bán trải nghiệm của mình cho khách hàng, cho những người có nhu cầu cần trải nghiệm đó hoặc ở mức độ cao cấp hơn nữa là đi bán "kỳ vọng" của khách hàng. (rút ra được sau khi tiếp xúc với nhiều thành phần sales giỏi có tệ có :P) 
 
 Mình luôn đề cao sự trải nghiệm vì nếu bạn chưa trải nghiệm qua thì chưa hình dung được sự vật, hiện tượng nó xảy ra như thế nào, cơ thể, giác quan, các hormones bên trong bạn sẽ phải ứng ra sao đối với tình huống đó. Quá trình này mọi người đều phải đi qua cả, trong kinh Pháp Hoa cũng có nói và mở rộng ra quan điểm là ai ai cũng có Phật tánh, ai ai cũng có thể trở thành Phật nếu trải qua quá trình rèn luyện, tu tập. 
 
