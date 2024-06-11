@@ -13,5 +13,5 @@ Căn bản cuộc sống có lúc này lúc kia, có lúc hy vọng và có lúc
 
 Bẵng đi thời gian gần đây vô tình coi lại một bộ phim cũng do Tom Hanks thủ vai chính, tựa là "người đàn ông mang tên Otto", ôi chao, đúng nghĩa tìm lại chân ái cuộc đời. Tom Hanks đóng vai người đàn ông vô cùng nguyên tắc và tình cảm trong vai Otto quá đạt, có thể trong nội tâm Tom Hanks cũng đã có tình yêu thương bao la như vậy mới có thể đóng những phim kinh điển như trên. Từ phim quay lại đọc truyện nguyên tác người đàn ông mang tên Ove của Fredick Backman trong một buổi chiều dù quá nhiều thứ phân tâm và bận rộn mới thấy vì sao mọi người lại yêu thích tác phẩm này đến thế và mọi thứ lại được như reset như mới.
 
-Cơ bản khi đã đến tuyệt vọng cùng cực thì chỉ có tình người, sự yêu thương vô bờ bến mới chính là cứu cánh để chính bản thân mình có thể thắp lại tia lửa hy vọng và bước tiếp. Cuộc đời dù có lúc này lúc kia nhưng nếu sống vô tư thì mọi thứ sẽ trở nhẹ như lông hồng dù ngoài kia đầy rẫy những toan tính lọc lừa.
+Cơ bản khi đã đến tuyệt vọng cùng cực thì chỉ có tình người, sự yêu thương vô bờ bến mới chính là cứu cánh để chính bản thân mình có thể thắp lại tia lửa hy vọng và bước tiếp. Cuộc đời dù có lúc này lúc kia nhưng nếu sống vô tư như một vị thiền sư đang nổi gần đây thì mọi thứ sẽ trở nên nhẹ như lông hồng dù ngoài kia đầy rẫy những toan tính lọc lừa.
 
