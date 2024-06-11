@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tình người - người đàn ông mang tên Ove
-date: 2024-06-011 09:02:00 +0700
+date: 2024-06-11 09:02:00 +0700
 categories: life
 ---
 
