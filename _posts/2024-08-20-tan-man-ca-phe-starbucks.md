@@ -24,7 +24,7 @@ Mãi đến 2013 Starbucks mới chính thức đặt chân vào VN dù lúc đ�
 
 2014 thì The Coffe House ra đời, ban đầu mình cũng khá thích trải nghiệm ở đây vì có nhiều bạn làm ở đây, quen nhiều và có discount code qua app lên đến nhiều % nên thời từ 2015-2018 toàn ngồi ở TCH. Tuy nhiên vì TCH invest gout cà phê khá kén khách, pha trộn tỉ lệ chưa hợp lý(A nhiều nên có vị chua, pha nhiều đường nên cơ bản nếu không dặn sẽ không uống được, caffein quá đậm, đô nặng như mình mà còn sổ mũi vì shock caffeine) nên đại đa số người uống cà phê sẽ khó uống trừ một số người biết uống, chủ yếu chắc bán trà đào cam sả nhiều hơn. 
 
-Starbucks nói thẳng ra thì họ bán thứ khác, không bán cà phê, cà phê chỉ là một cách để họ bán trải nghiệm và xây dựng văn hóa tương tự Trung Nguyên khi vào VN (có điều Trung Nguyện lại đề cao một cách thái quá và cực đoan công dụng của cà phê).
+Starbucks nói thẳng ra thì họ bán thứ khác, không bán cà phê, cà phê chỉ là một cách để họ bán trải nghiệm và xây dựng văn hóa tương tự Trung Nguyên khi vào VN (có điều Trung Nguyên lại đề cao một cách thái quá và cực đoan công dụng của cà phê).
 
 Mình cũng thích Starbucks, căn bản là họ có các loại trà trái cây dễ uống (như trà dâu) hay các loại theo mùa, dễ uống cho gia đình. Cà phê thì thường uống Americano thay nước (vì mua thêm nước tốn tiền :D) và thích từ cuốn sách Pour heart into it của cựu CEO Howard Schultz. 
 
