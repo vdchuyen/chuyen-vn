@@ -7,7 +7,7 @@ categories: life
 
 Mình là một người thích cà phê ! và không thể thiếu nó.
 
-Thời đó còn nhớ công thức hóa học C8H10N4O2, mạch vòng và gốc acid nữa do nên vì sao cà phê lại có vị đắng và uống vào xót bụng =]] 
+Thời đó còn nhớ công thức hóa học C8H10N4O2, mạch vòng và gốc acid nữa cho nên đó là lý do cà phê lại có vị đắng và uống vào xót bụng =]] 
 
 Những năm 2000 thì SG có nhiều quán cà phê dạng sân vườn như khu Phú Nhuận có Du Miên ở Hồ Biểu Chánh, Pergola, Miền Đồng Thảo, cà phê nhạc Trịnh ở Bình Thạnh, cà phê Rock ở bờ kè hay khu Hồ Xuân Hương, Ngô Thời Nhiệm, mình còn nhớ có một quán tên Yên, quán cũ của Lý và những người bạn, hình chụp từ máy film lục trong kho:  
 
