@@ -26,7 +26,7 @@ Mãi đến 2013 Starbucks mới chính thức đặt chân vào VN dù lúc đ�
 
 Starbucks nói thẳng ra thì họ bán thứ khác, không bán cà phê, cà phê chỉ là một cách để họ bán trải nghiệm và xây dựng văn hóa tương tự Trung Nguyên khi vào VN (có điều Trung Nguyên lại đề cao một cách thái quá và cực đoan công dụng của cà phê).
 
-Mình cũng thích Starbucks, căn bản là họ có các loại trà trái cây dễ uống (như trà dâu) hay các loại theo mùa, dễ uống cho gia đình. Cà phê thì thường uống Americano thay nước (vì mua thêm nước tốn tiền :D) và thích từ cuốn sách Pour heart into it của cựu CEO Howard Schultz. 
+Mình cũng thích Starbucks, căn bản là họ có các loại trà trái cây dễ uống (như trà dâu) hay các loại theo mùa, dễ uống cho gia đình, cuối tuần vô ngồi ngắm trai xinh gái đẹp và nhìn mọi người cũng là một thú vui, lâu lâu còn gặp celeb hoặc người quen. Cà phê thì thường uống Americano thay nước (vì mua thêm nước tốn tiền :D) và thích từ cuốn sách Pour heart into it của cựu CEO Howard Schultz. 
 
 Sau này thì có thêm trải nghiệm thẻ, ví dụ một trong những thẻ phát hành ở VN và app cũng tốt hơn so với nhiều chuỗi ở VN:
 
