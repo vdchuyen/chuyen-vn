@@ -9,7 +9,7 @@ Mình là một người thích cà phê ! và không thể thiếu nó.
 
 Thời đó còn nhớ công thức hóa học C8H10N4O2, mạch vòng và gốc acid nữa cho nên đó là lý do cà phê lại có vị đắng và uống vào xót bụng =]] 
 
-Cà phê theo chân những nhà truyền giáo vào Việt Nam khá lâu, sau này người Pháp bắt đầu lập đồn điền để trồng cà phê và cao su thì người Việt mới biết uống cà phê, tầm khoảng trăm mấy mươi năm trở lại đây khoảng thế kỷ 19, quá trễ so với lịch sử cà phê của nhân loại bắt nguồn từ thế kỷ thứ 15.
+Cà phê ban đầu theo chân những nhà truyền giáo vào Việt Nam, sau này người Pháp bắt đầu lập đồn điền để trồng cà phê và cao su thì người Việt mới biết uống cà phê, tầm khoảng trăm mấy mươi năm trở lại đây khoảng thế kỷ 19, quá trễ so với lịch sử cà phê của nhân loại bắt nguồn từ thế kỷ thứ 15.
 
 Tuy nhiên người Việt bằng cách nào đó vẫn tạo được cách thưởng thức cà đặc trưng riêng bằng nhiều cách như cà phê trứng, cà phê pha sữa đặc, bạc sỉu, cà phê vợt, cà phê muối ... ngoài kiểu pha phin thông thường. 
 
