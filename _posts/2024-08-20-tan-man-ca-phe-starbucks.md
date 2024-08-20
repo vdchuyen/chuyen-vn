@@ -13,7 +13,7 @@ Cà phê ban đầu theo chân những nhà truyền giáo vào Việt Nam, sau 
 
 Tuy nhiên người Việt bằng cách nào đó vẫn tạo được cách thưởng thức cà đặc trưng riêng bằng nhiều cách như cà phê trứng, cà phê sữa đá pha sữa đặc, bạc sỉu, cà phê vợt, cà phê muối ... ngoài kiểu pha phin thông thường. 
 
-Những năm 2000 thì SG có nhiều quán cà phê dạng sân vườn như khu Phú Nhuận có Du Miên ở Hồ Biểu Chánh, Pergola, Miền Đồng Thảo, cà phê nhạc Trịnh ở Bình Thạnh, cà phê Rock ở bờ kè hay khu Hồ Xuân Hương, Ngô Thời Nhiệm, mình còn nhớ có một quán tên Yên, quán cũ của Lý và những người bạn, hình chụp từ máy film lục trong kho:  
+Những năm 2000 thì SG có nhiều quán cà phê dạng sân vườn như khu Phú Nhuận có Du Miên ở Hồ Biểu Chánh, Pergola, Miền Đồng Thảo, cà phê nhạc Trịnh ở Bình Thạnh, cà phê Rock ở bờ kè hay khu Hồ Xuân Hương, Ngô Thời Nhiệm, mình còn nhớ có một quán tên Yên, quán cũ của Lý và những người bạn, hình này chụp Lý từ máy film lục trong kho ảnh cũ ở quán.
 
 <img width="396"  height="600"  src="https://github.com/user-attachments/assets/696231f8-cfe4-4c1b-942b-10a0f09a6c9f" >
 
