@@ -38,7 +38,7 @@ Starbucks bán cà phê dễ uống hơn, có điều chỉnh chút ít khẩu v
 
 Mình cũng thích Starbucks, căn bản là họ có các loại trà trái cây dễ uống (như trà dâu) hay các loại theo mùa, dễ uống cho gia đình, cuối tuần vô ngồi ngắm trai xinh gái đẹp và nhìn mọi người cũng là một thú vui, lâu lâu còn gặp celeb hoặc người quen. Cà phê thì thường uống Americano thay nước (vì mua thêm nước tốn tiền :D) và thích từ cuốn sách "Pour your heart into it" của cựu CEO Howard Schultz. 
 
-Sau này thì có thêm trải nghiệm thẻ, ví dụ một trong những thẻ phát hành ở VN và app cũng tốt hơn so với nhiều chuỗi ở VN:
+Sau này thì có thêm trải nghiệm thẻ, bên dưới là một trong những thẻ phát hành ở VN mình đang có(buồn cười một chút là team design/sản phẩm rewards lại không phân biệt được Vespa và Lambretta dù thành công từ việc đi bán cà phê Ý) và app cũng tốt hơn so với nhiều chuỗi ở VN:
 
 <img width="460" alt="starbucks card" src="https://github.com/user-attachments/assets/cdcda3c1-04b3-479f-aedb-f328d5ec5ed1">
 
