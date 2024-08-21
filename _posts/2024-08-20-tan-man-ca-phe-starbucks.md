@@ -5,7 +5,7 @@ date: 2024-08-19 23:59:00 +0700
 categories: life
 ---
 
-Mình là một người thích cà phê ! và không thể thiếu nó.
+Mình là một người thích cà phê ! và không thể sống thiếu nó.
 
 Thời đó còn nhớ công thức hóa học của caffeine(một chất chiếm tỉ lệ khá lớn trong cà phê) là C8H10N4O2, mạch vòng và gốc acid nữa cho nên đó là lý do cà phê lại có vị đắng và uống vào xót và nhiều khi đau bụng nữa 😂 
 
