@@ -36,7 +36,7 @@ Nói chung để làm quán cà phê tốt thì nên bán cho đại chúng, cò
 
 Starbucks bán cà phê dễ uống hơn, có điều chỉnh chút ít khẩu vị phù hợp với thị trường Việt và nói thẳng ra thì họ bán thứ khác, không bán cà phê (dù với cà phê có thể nói họ là một công ty như Apple ở lĩnh vực công nghệ, là những công ty tiêu biểu và xuất sắc trong việc quản lý chuỗi cung ứng toàn cầu), cà phê chỉ là một cách để họ bán trải nghiệm và xây dựng văn hóa tương tự Trung Nguyên khi vào VN (có điều Trung Nguyên lại đề cao một cách thái quá và cực đoan công dụng của cà phê).
 
-Mình cũng thích Starbucks, căn bản là họ có các loại trà trái cây dễ uống (như trà dâu) hay các loại theo mùa, dễ uống cho gia đình, cuối tuần vô ngồi ngắm trai xinh gái đẹp và nhìn mọi người cũng là một thú vui, lâu lâu còn gặp celeb hoặc người quen. Cà phê thì thường uống Americano thay nước (vì mua thêm nước tốn tiền :D) và thích từ cuốn sách "Pour your heart into it" của cựu CEO Howard Schultz. 
+Mình cũng thích Starbucks, căn bản là họ có các loại trà trái cây dễ uống (như trà dâu) hay các loại theo mùa, dễ uống cho gia đình, cuối tuần vô ngồi ngắm trai xinh gái đẹp và nhìn mọi người cũng là một thú vui, lâu lâu còn gặp celeb hoặc người quen. Cà phê thì thường uống Americano thay nước (vì mua thêm nước tốn tiền :D) và thích từ cuốn sách ["Pour your heart into it"](https://robanme.com/wp-content/uploads/2018/05/DocHetTraiTim.pdf) của cựu CEO Howard Schultz. 
 
 Sau này thì có thêm trải nghiệm thẻ, bên dưới là một trong những thẻ phát hành ở VN mình đang có(buồn cười một chút là team design/sản phẩm rewards lại không phân biệt được Vespa và Lambretta dù thành công từ việc đi bán cà phê Ý) và app cũng tốt hơn so với nhiều chuỗi ở VN:
 
