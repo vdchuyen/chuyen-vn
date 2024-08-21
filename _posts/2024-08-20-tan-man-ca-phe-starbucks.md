@@ -7,7 +7,7 @@ categories: life
 
 Mình là một người thích cà phê ! và không thể thiếu nó.
 
-Thời đó còn nhớ công thức hóa học C8H10N4O2, mạch vòng và gốc acid nữa cho nên đó là lý do cà phê lại có vị đắng và uống vào xót bụng =]] 
+Thời đó còn nhớ công thức hóa học của caffeine(một chất chiếm tỉ lệ khá lớn trong cà phê) là C8H10N4O2, mạch vòng và gốc acid nữa cho nên đó là lý do cà phê lại có vị đắng và uống vào xót bụng =]] 
 
 Cà phê ban đầu theo chân những nhà truyền giáo vào Việt Nam, sau này người Pháp bắt đầu lập đồn điền để trồng cà phê và cao su thì người Việt mới biết uống cà phê, tầm trăm mấy mươi năm trở lại đây khoảng thế kỷ 19, quá trễ so với lịch sử cà phê của nhân loại bắt nguồn từ thế kỷ 15.
 
