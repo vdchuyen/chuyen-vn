@@ -20,7 +20,7 @@ Những năm 2000 thì SG có nhiều quán cà phê dạng sân vườn như kh
 
 Cách đây gần 20 năm trước, những người bạn sang US của mình (đi nhiều con đường khác nhau) mỗi khi chat qua Yahoo! đều nhắc tới Starbucks như là một thiên đường, nơi có thể ngồi ngắm mây trời, làm thơ hay đọc sách... 
 
-Bẵng đi vài năm sau, có vài người về còn mention rằng sẽ cố gắng đem về cho bằng được (franchise), thời điểm đó Starbucks chắc vẫn nghĩ VN còn bom đạn nên coi như giấc mộng không thành.
+Bẵng đi vài năm sau, có vài người về còn mention rằng sẽ cố gắng đem về cho bằng được (franchise) tuy nhiên thời điểm đó Starbucks chắc vẫn nghĩ VN còn chiến tranh và bom đạn nên coi như giấc mộng không thành.
 
 Mãi đến 2013 Starbucks mới chính thức đặt chân vào VN dù lúc đó VN có quá nhiều cửa hàng cà phê từ Highlands (đã bán cho Jollibee từ 2011), Trung Nguyên đang chiếm thị phần lớn với cả cà phê hòa tan lẫn các chuỗi cà phê, Gloria Jean's vô VN từ 2006, Coffee Bean cũng vô sớm đâu đó 2008, MOF, Angle in US...  Thời điểm đó đại đa số dân SG ngồi cà phê cóc chắc còn vẫn thích và quen uống cà phê bắp hoặc mua từ chợ Kim Biên 😂
 
