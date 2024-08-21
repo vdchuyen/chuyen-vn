@@ -11,7 +11,7 @@ Thời đó còn nhớ công thức hóa học C8H10N4O2, mạch vòng và gốc
 
 Cà phê ban đầu theo chân những nhà truyền giáo vào Việt Nam, sau này người Pháp bắt đầu lập đồn điền để trồng cà phê và cao su thì người Việt mới biết uống cà phê, tầm trăm mấy mươi năm trở lại đây khoảng thế kỷ 19, quá trễ so với lịch sử cà phê của nhân loại bắt nguồn từ thế kỷ 15.
 
-Tuy nhiên người Việt bằng cách nào đó vẫn tạo được cách thưởng thức cà đặc trưng riêng bằng nhiều cách như cà phê trứng, cà phê sữa đá pha bằng sữa đặc, bạc sỉu, cà phê vợt, cà phê muối ... ngoài kiểu pha phin thông thường. 
+Tuy nhiên người Việt bằng cách nào đó vẫn tạo được cách thưởng thức cà phê đặc trưng riêng bằng nhiều cách như cà phê trứng, cà phê sữa đá pha bằng sữa đặc, bạc sỉu, cà phê vợt, cà phê muối ... ngoài kiểu pha phin thông thường. 
 
 Những năm 2000 thì SG có nhiều quán cà phê dạng sân vườn như khu Phú Nhuận có Du Miên ở Hồ Biểu Chánh, Pergola, Miền Đồng Thảo, cà phê nhạc Trịnh ở Bình Thạnh, cà phê Rock ở bờ kè hay khu Hồ Xuân Hương, Ngô Thời Nhiệm, mình còn nhớ có một quán tên Yên, quán cũ của Lý và những người bạn, hình này mình chụp Lý từ máy film ở quán Yên.
 
