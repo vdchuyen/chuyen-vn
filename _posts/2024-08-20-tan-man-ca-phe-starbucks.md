@@ -56,4 +56,7 @@ Chuỗi Luckin ở TQ rất nhỏ, thường là dạng take-away, không quá t
 
 Việc Starbucks [đóng của hàng Reserve ở Hàn Thuyên](https://vietnamnet.vn/ly-do-starbucks-dong-cua-quan-ca-phe-dac-dia-nhat-tphcm-2313250.html) gần đây cũng là mốc đánh dấu nhiều sự thay đổi. Quy mô Starbucks quá lớn so với một chuỗi cà phê, tuy nhiên cái gì đi lên cũng đi xuống, mọi sự thay đổi đều có lý do, đó là quy luật. Có thể Starbucks thay đổi thành công với vị CEO mới [(113$mn man)](https://www.ft.com/content/0d43b13b-686b-47c8-b0ab-95726ce7b1860) hay không thì cũng không quá quan trọng, thế nào cũng có chỗ để uống cà phê ở đất SG này thôi. 
 
+![image](https://github.com/user-attachments/assets/ec5f214c-4108-42e1-81b9-7bfebd7632bb)  
+
+
 Cảm hứng thì chắc là đến từ bài viết [này](https://www.vox.com/the-goods/2020/2/27/21145969/starbucks-coffee-drinks-stores), một bài hay mang đậm văn hóa NYC.  
