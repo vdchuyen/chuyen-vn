@@ -6,7 +6,8 @@ categories: life
 ---
 
 Mỗi khi nhắc đến Tom Hanks mọi người chắc chắn sẽ nhớ đến Forrest Gump, một bộ phim ăn sâu vào tuổi thơ của rất nhiều người. Mình ấn tượng nhất câu thoại kinh điển:
->“My mom always said life was like a box of chocolates. You never know what you're gonna get.”  
+>"My mom always said life was like a box of chocolates. You never know what you're gonna get."  
+
 Và từ đó nó là kim chỉ nam để mình có thể tồn tại đến bây giờ. 
 
 Căn bản cuộc sống có lúc này lúc kia, có lúc hy vọng và có lúc tuyệt vọng cùng cực nhưng mỗi khi nhớ đến câu này thì mọi thứ lại reset như mới vậy. Khổ đau chẳng qua là do chưa thể buông bỏ được những thứ đã thấy và đã biết quá nhiều ??
