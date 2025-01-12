@@ -13,6 +13,8 @@ Cà phê ban đầu theo chân những nhà truyền giáo vào Việt Nam, sau 
 
 Tuy nhiên người Việt bằng cách nào đó vẫn tạo được cách thưởng thức cà phê đặc trưng riêng bằng nhiều cách như cà phê trứng, cà phê sữa đá pha bằng sữa đặc, bạc sỉu, cà phê vợt, cà phê muối ... ngoài kiểu pha phin thông thường. Người Việt thích uống cà phê, đó là điều không bàn cãi vì chỉ cần nhìn vào số lượng quán cà phê khắp cả nước thì sẽ hiểu (số liệu từ Mibrand VN đang có 500.0000 quán cà phê với doanh thu 1.46B$ hàng năm, với dân số 100tr người thì TB 196 người sẽ có 1 quán cà phê), một phần chắc có lẽ người Việt thích chất kích thích và ...rảnh(hoặc tâm lý làm việc quan liêu, thích hưởng thụ, cái này có lẽ ảnh hưởng lớn từ người Pháp sau mấy chục năm đô hộ).
 
+<img width="778"  height="543"  src="https://raw.githubusercontent.com/vdchuyen/chuyen-vn/refs/heads/master/img/coffe-type.webp">
+
 Những năm 2000 thì SG có nhiều quán cà phê dạng sân vườn như khu Phú Nhuận có Du Miên ở Hồ Biểu Chánh, Pergola, Miền Đồng Thảo, cà phê nhạc Trịnh ở Bình Thạnh, cà phê Rock ở bờ kè hay khu Hồ Xuân Hương, Ngô Thời Nhiệm, mình còn nhớ có một quán tên Yên, quán cũ của Lý và những người bạn, hình này mình chụp Lý từ máy film ở quán Yên.
 
 <img width="396"  height="600"  src="https://github.com/user-attachments/assets/696231f8-cfe4-4c1b-942b-10a0f09a6c9f" >
@@ -50,13 +52,13 @@ Với thị phần ngày càng giảm ở CN, bị Luckin và các chuỗi khác
 
 <img src="https://github.com/user-attachments/assets/77ffb476-b6d1-4a41-8682-ddb5fe46bc59" width="550" >
 
-Chuỗi Luckin ở TQ rất nhỏ, thường là dạng take-away, không quá to và có chỗ ngồi cả ngày như Starbucks.
+Chuỗi Luckin ở TQ rất nhỏ, thường là dạng take-away, không quá to và có chỗ ngồi cả ngày như Starbucks. Luckin kết hợp với Maotai chế ra loại cà phê thơm mùi rượu uống cũng hay hay, khá đặc trưng. 
 
 <img src="https://github.com/user-attachments/assets/18efd194-d9e4-49c5-84c3-539081230331" width="400" height="600" >  
 
 Việc Starbucks [đóng của hàng Reserve ở Hàn Thuyên](https://vietnamnet.vn/ly-do-starbucks-dong-cua-quan-ca-phe-dac-dia-nhat-tphcm-2313250.html) gần đây cũng là mốc đánh dấu nhiều sự thay đổi. Quy mô Starbucks quá lớn so với một chuỗi cà phê, tuy nhiên cái gì đi lên cũng đi xuống, mọi sự thay đổi đều có lý do, đó là quy luật. Có thể Starbucks thay đổi thành công với vị CEO mới [(113$mn man)](https://www.ft.com/content/0d43b13b-686b-47c8-b0ab-95726ce7b1860) hay không thì cũng không quá quan trọng, thế nào cũng có chỗ để uống cà phê ở đất SG này thôi. 
 
-![image](https://github.com/user-attachments/assets/ec5f214c-4108-42e1-81b9-7bfebd7632bb)  
+<img src="https://github.com/user-attachments/assets/ec5f214c-4108-42e1-81b9-7bfebd7632bb" width="600" height="400" >    
 
 
 Cảm hứng thì chắc là đến từ bài viết [này](https://www.vox.com/the-goods/2020/2/27/21145969/starbucks-coffee-drinks-stores), một bài hay mang đậm văn hóa NYC.  
