@@ -7,5 +7,8 @@ gem 'jekyll-feed'
 gem "json"
 gem "rouge"
 gem "sassc", "~> 2.3.0"
-gem 'jekyll-compose', group: [:jekyll_plugins]
-gem 'kramdown-syntax-coderay'
+gem "jekyll-compose"
+group :jekyll_plugins do
+  gem "kramdown-syntax-coderay", "~> 0.13.1"
+end
+
