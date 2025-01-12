@@ -88,10 +88,10 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  arm64-darwin-23
+  x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.0)
+  jekyll (~> 4.2)
   jekyll-compose
   jekyll-feed
   jekyll-gist
