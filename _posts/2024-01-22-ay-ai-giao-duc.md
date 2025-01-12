@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giáo Dục trong thời kỳ mới Ây Ai (to be updating ...)
-date: 2024-01-22 09:057:02 +0700
+date: 2024-01-22 09:57:02 +0700
 categories: life
 ---
 Sẵn coi lại podcast của [Hiếu](https://vietcetera.com/vn/podcast/edustation/4-ts-nguyen-chi-hieu-ceo-tai-ieg-global-thau-hieu-hon-mot-the-he-vuot-suong), bạn từ thời cấp 2 lâu lâu mới gặp vì giờ ai cũng bận rộn, Hiếu có mở một đề tài khá hay liên quan đến việc giáo dục trẻ, những việc Hiếu nói liên quan đến định hình tính cách từ ban đầu, xây dựng bản ngã, quản lý cảm xúc gợi lại con đường mà tự mình mò mẫm trải qua.  
