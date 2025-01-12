@@ -11,7 +11,6 @@ gem "rouge"
 gem "sassc", "~> 2.3.0"
 
 group :jekyll_plugins do
-  gem "kramdown-syntax-coderay", "~> 0.13.1"
   gem "faraday-retry"
   gem "jekyll-gist"
   gem "jekyll-paginate"
