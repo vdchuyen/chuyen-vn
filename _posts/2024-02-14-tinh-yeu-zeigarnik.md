@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tình dang dở - hiệu ứng Zeigarnik 
-date: 2024-02-14 14:02:00 +0700
+date: 2024-02-14 14:02:01 +0700
 categories: life
 ---
 
