@@ -45,4 +45,4 @@ So the fix is just simple change-pin using pkcs11-tool
 {% highlight bash %}
 pkcs11-tool --module /usr/lib/libeTPkcs11.so --change-pin
 {% endhighlight %}
-Update new pin to API then it's work and preparing to change again when it comes.
+Update new pin to API config then it started to work again and preparing to change again when the error comes again.
