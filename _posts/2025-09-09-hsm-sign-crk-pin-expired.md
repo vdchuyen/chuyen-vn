@@ -9,6 +9,10 @@ From [6/2023](https://knowledge.digicert.com/general-information/new-private-key
 
 This blog is just a quick memo to save the fix of the error 'CKR_PIN_EXPIRED' because I can not find the solutions elsewhere. 
 
+From the document of [pkcs11](https://docs.oasis-open.org/pkcs11/pkcs11-base/v2.40/os/pkcs11-base-v2.40-os.html), we knew that the define CKR_PIN_EXPIRED was related to pin expired
+
+>CKR_PIN_EXPIRED: The specified PIN has expired, and the requested operation cannot be carried out unless C_SetPIN is called to change the PIN value.  Whether or not the normal user’s PIN on a token ever expires varies from token to token.
+
 Digicert provides Safenet Token, after provisioning and run for a couple of days (17) I've got that error. I've used jsign to build the API then the error looked like this:
 
 {% highlight java %}
