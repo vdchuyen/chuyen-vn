@@ -47,4 +47,4 @@ pkcs11-tool --module /usr/lib/libeTPkcs11.so --change-pin
 {% endhighlight %}
 Update new pin to API config then it started to work again and preparing a script to change again when the error comes again or you can use vendor tool to extend the PIN validation period
 
-<img src="https://github.com/vdchuyen/chuyen-vn/blob/master/img/pin-expire.png?raw=true"></img>
+<img src="https://github.com/vdchuyen/chuyen-vn/blob/master/img/pin-expire.png?raw=true">
