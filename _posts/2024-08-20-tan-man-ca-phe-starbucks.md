@@ -48,7 +48,7 @@ Tuy nhiên vài năm trở lại đây, Starbucks rơi vào khủng hoảng, b�
 
 <img width="755" alt="image" src="https://github.com/user-attachments/assets/fb446b4a-9fe4-4fc9-ae1f-4105aac11e3d">
 
-Với thị phần ngày càng giảm ở CN, bị Luckin và các chuỗi khác đang đuổi theo (thực ra Luckin cà phê uống rất OK, có loại pha với Maotai uống rất hay)
+Với thị phần ngày càng giảm ở CN, bị Luckin và các chuỗi khác đang đuổi theo, Luckin tích hợp được vào hệ sinh thái mini app trên Alipay (Zhifubao) cực kỳ tiện cho việc booking order take-away và thanh toán.
 
 <img src="https://github.com/user-attachments/assets/77ffb476-b6d1-4a41-8682-ddb5fe46bc59" width="550" >
 
